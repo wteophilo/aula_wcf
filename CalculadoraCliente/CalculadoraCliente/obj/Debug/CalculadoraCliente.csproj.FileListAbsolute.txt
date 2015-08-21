@@ -1,0 +1,6 @@
+C:\Users\CPD08\Desktop\aula_asp_mvc\aula_wcf\CalculadoraCliente\CalculadoraCliente\bin\Debug\CalculadoraCliente.exe.config
+C:\Users\CPD08\Desktop\aula_asp_mvc\aula_wcf\CalculadoraCliente\CalculadoraCliente\bin\Debug\CalculadoraCliente.exe
+C:\Users\CPD08\Desktop\aula_asp_mvc\aula_wcf\CalculadoraCliente\CalculadoraCliente\bin\Debug\CalculadoraCliente.pdb
+C:\Users\CPD08\Desktop\aula_asp_mvc\aula_wcf\CalculadoraCliente\CalculadoraCliente\obj\Debug\CalculadoraCliente.csprojResolveAssemblyReference.cache
+C:\Users\CPD08\Desktop\aula_asp_mvc\aula_wcf\CalculadoraCliente\CalculadoraCliente\obj\Debug\CalculadoraCliente.exe
+C:\Users\CPD08\Desktop\aula_asp_mvc\aula_wcf\CalculadoraCliente\CalculadoraCliente\obj\Debug\CalculadoraCliente.pdb

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="aec2b0a1-f58a-471d-8a27-a4269c65f85a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:52257/Calculadora.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Calculadora2.xsd" MetadataType="Schema" ID="c27dc455-edc0-4948-bfa7-d61ac36bf2ee" SourceId="1" SourceUrl="http://localhost:52257/Calculadora.svc?xsd=xsd3" />
+    <MetadataFile FileName="Calculadora21.xsd" MetadataType="Schema" ID="0bc83d0c-8938-4b88-b497-f1171aa7f152" SourceId="1" SourceUrl="http://localhost:52257/Calculadora.svc?xsd=xsd2" />
+    <MetadataFile FileName="Calculadora1.xsd" MetadataType="Schema" ID="377b497a-dc5c-4bb3-a1bd-6ab3a5756af0" SourceId="1" SourceUrl="http://localhost:52257/Calculadora.svc?xsd=xsd1" />
+    <MetadataFile FileName="Calculadora.wsdl" MetadataType="Wsdl" ID="ff24a6e3-e8b2-4530-bf2f-4249538a8fbc" SourceId="1" SourceUrl="http://localhost:52257/Calculadora.svc?wsdl" />
+    <MetadataFile FileName="Calculadora.disco" MetadataType="Disco" ID="1e910619-6e76-4c48-b19f-21e2988ebb4e" SourceId="1" SourceUrl="http://localhost:52257/Calculadora.svc?disco" />
+    <MetadataFile FileName="Calculadora.xsd" MetadataType="Schema" ID="486a7d53-91af-46c6-8c07-62c0957a7ea6" SourceId="1" SourceUrl="http://localhost:52257/Calculadora.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
